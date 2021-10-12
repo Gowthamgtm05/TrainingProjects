@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="org.test.SingleInheritance"/>
+    <fullyQualifiedTypeName name="org.test.ChlidClass"/>
+    <fullyQualifiedTypeName name="org.polymorphism.MethodOverloading"/>
+    <fullyQualifiedTypeName name="org.overriding.Class2"/>
+    <fullyQualifiedTypeName name="org.overriding.MethodOverRiding"/>
+    <fullyQualifiedTypeName name="org.interf.code.InterfaceCode"/>
+    <fullyQualifiedTypeName name="org.interf.code.Class1"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.spi.FormatConversionProvider"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="org.test.Newww"/>
+    <fullyQualifiedTypeName name="org.test.SingleTon"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.sample.Test"/>
+    <fullyQualifiedTypeName name="org.sample2.Sample2"/>
+    <fullyQualifiedTypeName name="org.sample.Sample"/>
+</qualifiedTypeNameHistroy>

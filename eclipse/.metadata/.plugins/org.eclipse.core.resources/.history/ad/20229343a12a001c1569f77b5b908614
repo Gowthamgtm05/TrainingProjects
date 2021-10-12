@@ -1,0 +1,12 @@
+package org.sample2;
+
+protected class Sample2 {
+	protected void method3() {
+		System.out.println("hfhef");
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

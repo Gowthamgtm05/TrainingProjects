@@ -1,0 +1,10 @@
+package org.sample;
+
+public class Sample {
+
+		public static void main(String[] args) {
+			Test te = new Test();
+			System.out.println(te.hashCode());
+			
+		}
+}

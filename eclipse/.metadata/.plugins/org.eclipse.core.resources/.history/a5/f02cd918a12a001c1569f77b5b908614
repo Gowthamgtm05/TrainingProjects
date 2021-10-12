@@ -1,0 +1,11 @@
+package org.sample;
+
+public class Sample extends Test {
+
+		public static void main(String[] args) {
+			
+			Sample s = new Sample();
+			s.method1();
+			
+		}
+}
